@@ -13,4 +13,3 @@ This repo is setup with a few branches for easier maintenance. The `ghost` branc
 * Add `web.config` & `iisnode.yml` - standard stuff to host node on IIS.
 * Add support for HSTS headers. Technically, this isn't required to get Ghost running on Azure, [but you should probably do it anyway](https://www.hanselman.com/blog/HowToEnableHTTPStrictTransportSecurityHSTSInIIS7.aspx).
 
-To see these changes in detail, [see the branch comparison](https://github.com/chadly/ghost/compare/ghost...azure?expand=1).
